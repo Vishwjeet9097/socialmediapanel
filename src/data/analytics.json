@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "views": { "value": 2341800, "change": 12.4 },
+    "watchHours": { "value": 77900, "change": 8.1 },
+    "subscribers": { "value": 248300, "gained": 6420, "lost": 610, "change": 2.4 },
+    "revenue": { "value": 184500, "change": -3.2 }
+  },
+  "series": [
+    { "day": "Oct 3", "views": 61000, "watchHours": 2100, "subscribers": 180 },
+    { "day": "Oct 6", "views": 72000, "watchHours": 2400, "subscribers": 210 },
+    { "day": "Oct 9", "views": 98000, "watchHours": 2600, "subscribers": 340 },
+    { "day": "Oct 12", "views": 84000, "watchHours": 2900, "subscribers": 260 },
+    { "day": "Oct 15", "views": 79000, "watchHours": 2700, "subscribers": 230 },
+    { "day": "Oct 18", "views": 91000, "watchHours": 3100, "subscribers": 290 },
+    { "day": "Oct 21", "views": 156000, "watchHours": 3400, "subscribers": 520 },
+    { "day": "Oct 24", "views": 132000, "watchHours": 3900, "subscribers": 410 },
+    { "day": "Oct 27", "views": 118000, "watchHours": 3600, "subscribers": 380 },
+    { "day": "Oct 30", "views": 104000, "watchHours": 3300, "subscribers": 330 }
+  ],
+  "audience": {
+    "returning": 38,
+    "new": 62,
+    "subscriberViews": 27,
+    "age": [
+      { "label": "13–17", "value": 6 },
+      { "label": "18–24", "value": 31 },
+      { "label": "25–34", "value": 38 },
+      { "label": "35–44", "value": 16 },
+      { "label": "45+", "value": 9 }
+    ],
+    "devices": [
+      { "label": "Mobile", "value": 71 },
+      { "label": "TV", "value": 14 },
+      { "label": "Computer", "value": 12 },
+      { "label": "Tablet", "value": 3 }
+    ],
+    "countries": [
+      { "label": "India", "value": 64 },
+      { "label": "United States", "value": 9 },
+      { "label": "UAE", "value": 6 },
+      { "label": "United Kingdom", "value": 5 },
+      { "label": "Other", "value": 16 }
+    ]
+  },
+  "reach": { "impressions": 18400000, "ctr": 6.8, "avgViewDuration": "6:42" }
+}

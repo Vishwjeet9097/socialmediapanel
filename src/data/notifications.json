@@ -1,0 +1,6 @@
+[
+  { "id": "n1", "kind": "scheduled", "text": "Your Short is scheduled for Nov 1 at 7:00 PM.", "time": "2h ago" },
+  { "id": "n2", "kind": "attention", "text": "\"Camera Settings for Night Markets\" needs attention — processing failed.", "time": "5h ago" },
+  { "id": "n3", "kind": "draft", "text": "A new video was added to your drafts.", "time": "Yesterday" },
+  { "id": "n4", "kind": "analytics", "text": "Your latest video's performance is ready.", "time": "2 days ago" }
+]
